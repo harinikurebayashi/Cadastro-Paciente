@@ -6,7 +6,7 @@
 # Programa - Cadastro de Pacientes
 
 ## Sobre
-- exercício desenvolvido para disciplina de Programação Orientada a Objetos (POO), construindo um sistema em que cadastramos pacientes no sistema.
+- Exercício desenvolvido para disciplina de Programação Orientada a Objetos (POO), construindo um sistema em que cadastramos pacientes no sistema.
 - O sistema permite o cadastro e visualização das informações dos pacientes.
 
 ## Tecnologias e ferramentas utilizadas
