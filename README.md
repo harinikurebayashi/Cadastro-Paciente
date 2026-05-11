@@ -18,6 +18,9 @@
 ## Funcionalidades e Demonstração da Aplicação
 - O sistema cria dois pacientes com dois construtores diferentes.
 - O **primeiro** tem suas informações cadastradas pelo usuário, sendo criado por um construtor com parâmetros. Já o **segundo** paciente é criado a partir de um construtor com apenas um parâmetro (nome).
+
+<br>
+
 - A seguir, iriei apresentar o sistema rodando:
 
 <br>
@@ -42,13 +45,13 @@
 
 <img width="472" height="365" alt="Captura de tela 2026-05-07 002533" src="https://github.com/user-attachments/assets/530217a3-6b0d-45bb-9600-270969689ac7" />
 
-- Por fim, o sistema nos exibe as informações do paciente 2, que contém apenas o nome informado no momeento em que instanciamos ele.
+- Por fim, o sistema nos exibe as informações do paciente 2, que contém apenas o nome informado no momento em que instanciamos ele.
 
 ## Conclusão
 - **O que eu aprendi na prática?**
-- Aprendi melhor sobre como funciona o instanciamento de objetos com construtores.
-- Também aprendi melhor sobre o cadastro de informações do usuário, guardando estes dados em variáveis.
-- Além disso, aprendi como criar e utilizar métodos com cada objetos, diferenciando cada tipo.
+- Processo de instanciamento de objetos com construtores.
+- Entrada de dados (input) - guardando dados em variáveis - processamento e comandos de sáida (output).
+- Criação e utilização de métodos em uma classe, diferenciando cada tipo (função e procedimento).
 
 <br>
 
